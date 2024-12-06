@@ -1,0 +1,43 @@
+name: AverysCustomEssentials
+version: 4.1.0
+author: avery226
+main: com.abby226.abbyscustomitems.main.AbbysCustomItems
+api-version: 1.15
+commands:
+  collectibles:
+    permission: aci.access
+    description: opens the regular items gui
+    usage: /<command>
+
+  aciTrinketGUI:
+    permission: aci.access
+    description: Opens the functional items GUI
+    usage: /<command>
+
+  OPArmor:
+    permission: aci.access
+    description: opens the armor gui
+    usage: /<command>
+
+  BeaconKit:
+    permission: aci.access
+    description: opens the beacon kit gui
+    usage: /<command>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
