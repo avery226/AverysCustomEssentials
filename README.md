@@ -2,8 +2,6 @@ This plug Abby's custom items made by Avery Reel, alias: abby226 is a paper plug
 
 Available Commands:
 
-/beaconkit - Opens a GUI for the player that has the necessary items to make a singular full-power beacon. Players can remove items from the GUI.
-
 /collectibles - Opens a GUI for the player of the available collectables. User can remove items from the GUI.
 
 /oparmor - Opens a GUI of OP armor which the user can remove.
