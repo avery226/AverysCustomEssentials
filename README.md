@@ -6,3 +6,5 @@ Available Commands:
 
 /oparmor - Opens a GUI of OP armor which the user can remove.
 
+/beaconkit - Opens a GUI with items to make a full power, singular beacon.
+
