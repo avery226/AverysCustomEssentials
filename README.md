@@ -8,3 +8,4 @@ Available Commands:
 
 /beaconkit - Opens a GUI with items to make a full power, singular beacon.
 
+/eggs - Opens a GUI with renamed spawn eggs. 
